@@ -1,0 +1,10 @@
+C:\Users\Io.D\Documents\visual studio 2015\Projects\MarkdownTypo\Executable\MarkdownTypo.exe.config
+C:\Users\Io.D\Documents\visual studio 2015\Projects\MarkdownTypo\Executable\MarkdownTypo.exe
+C:\Users\Io.D\Documents\visual studio 2015\Projects\MarkdownTypo\Executable\MarkdownTypo.pdb
+C:\Users\Io.D\Documents\visual studio 2015\Projects\MarkdownTypo\Source Code\obj\Debug\MarkdownTypo.csprojResolveAssemblyReference.cache
+C:\Users\Io.D\Documents\visual studio 2015\Projects\MarkdownTypo\Source Code\obj\Debug\MarkdownTypo..vs.Properties.Resources.resources
+C:\Users\Io.D\Documents\visual studio 2015\Projects\MarkdownTypo\Source Code\obj\Debug\MarkdownTypo.csproj.GenerateResource.Cache
+C:\Users\Io.D\Documents\visual studio 2015\Projects\MarkdownTypo\Source Code\obj\Debug\MarkdownTypo.exe
+C:\Users\Io.D\Documents\visual studio 2015\Projects\MarkdownTypo\Source Code\obj\Debug\MarkdownTypo.pdb
+C:\Users\Io.D\Documents\visual studio 2015\Projects\MarkdownTypo\Source Code\obj\Debug\MarkdownTypo.Forms.Main.resources
+C:\Users\Io.D\Documents\visual studio 2015\Projects\MarkdownTypo\Source Code\obj\Debug\MarkdownTypo.Forms.Help.resources
